@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Serviços e Cursos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à Nossa Página de Serviços e Cursos</h1>
+    </header>
+    
+    <section id="servicos">
+        <h2>Serviços</h2>
+        <div class="servico">
+            <img src="https://source.unsplash.com/300x200/?consultoria" alt="Consultoria">
+            <h3>Consultoria Gratuita</h3>
+            <p>Oferecemos consultoria gratuita para ajudar sua empresa a crescer.</p>
+        </div>
+        <div class="servico">
+            <img src="https://source.unsplash.com/300x200/?design" alt="Design">
+            <h3>Serviço de Design</h3>
+            <p>Nossos especialistas em design estão prontos para criar visuais incríveis.</p>
+        </div>
+    </section>
+
+    <section id="cursos">
+        <h2>Cursos</h2>
+        <div class="curso">
+            <img src="https://source.unsplash.com/300x200/?curso" alt="Curso">
+            <h3>Curso de Marketing Digital</h3>
+            <p>Aprenda as melhores práticas de marketing digital para alavancar seu negócio.</p>
+        </div>
+        <div class="curso">
+            <img src="https://source.unsplash.com/300x200/?programacao" alt="Programação">
+            <h3>Curso de Programação</h3>
+            <p>Desenvolva suas habilidades de programação com nossos cursos gratuitos.</p>
+        </div>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Nossa Empresa</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
